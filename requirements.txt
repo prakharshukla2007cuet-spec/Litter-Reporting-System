@@ -1,0 +1,14 @@
+streamlit
+streamlit-js-eval
+streamlit-folium
+folium
+geopy
+pandas
+numpy
+scikit-learn
+joblib
+Pillow
+
+# Optional - only needed if you want to train/use the real CNN model.
+# The app works fine without this (it uses a simple fallback classifier).
+# tensorflow
